@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UCWeather</string>
+
+    <!-- MainActivity -->
+    <string name="unable_retrieve_data">Problème de chargement des données\nVeuillez réessayer en cliquant sur le bouton Rafraichir</string>
+    <string name="refresh">Rafraichir</string>
+    <string name="progress_dialog_loader">Récupération des prévisions en cours…</string>
+    <string name="close">Fermer</string>
+
+</resources>

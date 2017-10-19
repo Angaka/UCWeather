@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UCWeather</string>
+
+    <!-- MainActivity -->
+    <string name="unable_retrieve_data">Unable to retrieve data\nPlease retry by clicking on refresh button</string>
+    <string name="refresh">Refresh</string>
+    <string name="progress_dialog_loader">Forecasts recovery in progress…</string>
+    <string name="close">Close</string>
+
+</resources>
